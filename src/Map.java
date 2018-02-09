@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+//	Implementation of a hash table
 class HashNode<K, V> {
 	K key;
 	V value;
